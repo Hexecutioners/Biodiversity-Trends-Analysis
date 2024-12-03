@@ -28,17 +28,16 @@ statsmodels: For statistical computations.
 
 ==> Requirements
 
-Google collabs
+Google Collabs
 
 Required Python libraries:
-pandas matplotlib numpy 
+pandas,matplotlib,numpy 
 
 ==> Data Source(s)
 
-kaggle
-
+Kaggle
+https://www.kaggle.com/
 Convention on Biological Diversity (CBD)
-
 The World Bank - Environmental Data
 
 
