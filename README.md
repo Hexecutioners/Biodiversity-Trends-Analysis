@@ -7,9 +7,9 @@
 ==> NAME OF TEAM MEMBERS :
 
 1) VASU RUPARELIYA (ku2407u231)
-2) RUDRA RAVAL ()
-3) AASTHA JIAN ()
-4) PRINCE THAKKER ()
+2) RUDRA RAVAL (ku2407u187)
+3) AASTHA JIAN (ku2407u004)
+4) PRINCE THAKKER (ku2407u785)
 
 ==> Description of Biodiversity Trends
 
@@ -23,20 +23,19 @@ numpy: For mathematical calculations.
 pandas: For data manipulation and analysis.
 matplotlib: For visualizing portfolio performance.
 seaborn: For enhanced data visualization.
-yfinance: To fetch historical stock price data.
 statsmodels: For statistical computations.
 
 
 ==> Requirements
 
-google cooapse
+google collans
 
 Required Python libraries:
 pandas matplotlib numpy 
 
 ==> Data Source(s)
 
-keggle
+kaggle
 
 Convention on Biological Diversity (CBD)
 
@@ -68,7 +67,7 @@ Total Abundance: The total abundance of all species is calculated for each year 
 developed by team Hexecutioners 
 
 
-                          ==*==Thank you==*==
+                          
 
 
 
