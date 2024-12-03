@@ -28,7 +28,7 @@ statsmodels: For statistical computations.
 
 ==> Requirements
 
-google collabs
+Google collabs
 
 Required Python libraries:
 pandas matplotlib numpy 
